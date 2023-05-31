@@ -1,0 +1,41 @@
+--- 
+knit: "bookdown::render_book"
+title: "Source code and supporting information for _Ecological and phylogenetic determinants of diurnal variation in vocal activity of a tropical bird community_"
+author:
+    - Vijay Ramesh
+    - Meghana Srivathsa  
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    fig_caption: yes
+  bookdown::pdf_document2:
+    documentclass: scrreprt
+    toc-depth: 1
+    secnumdepth: 2
+    geometry: "left=4cm, right=3cm, top=2.5cm, bottom=2.5cm"
+biblio-style: apalike
+link-citations: yes
+github-repo: vjjan91/vocal-activity
+---
+
+# Introduction
+
+This is the readable version that showcases analyses that uses acoustic data to examine how vocal activity patterns vary between dawn and dusk for a tropical bird community and what are its ecological and phylogenetic determinants.  
+
+## Attribution
+
+Please contact the following in case of interest in the project.
+
+- Vijay Ramesh (lead author)
+    - Postdoctoral Research Associate, Cornell Lab of Ornithology  
+
+## Data access
+
+The data used in this work is archived on Zenodo.  
+
+## Data processing
+
+The data processing for this project is described in the following sections. Navigate through them using the links in the sidebar.  
+
+---
