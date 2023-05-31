@@ -15,18 +15,18 @@ A readable version of this analysis is available in bookdown format by clicking 
 
 We describe what each script (`.Rmd`) of this repository is intended to achieve below.  
 
-This project builds on data that was collected for a previously published manuscript in [Biological Conservation](https://www.sciencedirect.com/science/article/pii/S0006320723001726). Please refer to this [link](https://vjjan91.github.io/acoustics-Restoration/) to view code and analysis for the previously published manuscript. Our site selection criteria, vegetation structure analysis, and splitting of .wav files for annotation can be accessed by visiting the above link. The outputs from the previously written analyses are now added to the `data/` folder.   
+This project builds on data that was collected for a previously published manuscript in [Biological Conservation](https://www.sciencedirect.com/science/article/pii/S0006320723001726). Please refer to this [link](https://vjjan91.github.io/acoustics-Restoration/) to view code and analysis for the previously published manuscript. The outputs from the previously written analyses are now added to the `data/` folder.   
 
 
 ** Work in progress **
 We will carry out the following here:
 
--dawn and dusk detections (cumulative)
--dawn and dusk vocal activity (how is vocal activity measured and estimated?; also run separate analysis on proportions?)
--dawn and dusk species richness (jacknife?)(not necessarily needed)
--PGLS analysis/no PGLS analysis? 
-    dawn
-    dusk
-  (including habitat structure ~ PC measurements, habitat affiliation (RF/OC), foraging guild, trophic niche/diet, and )
+-dawn and dusk detections (cumulative)  
+-dawn and dusk vocal activity (how is vocal activity measured and estimated?; also run separate analysis on proportions?)  
+-dawn and dusk species richness (jacknife?)(not necessarily needed)  
+-PGLS analysis/no PGLS analysis?   
+    dawn  
+    dusk  
+  (including habitat structure ~ PC measurements, habitat affiliation (RF/OC), foraging guild, trophic niche/diet, and )  
 
 
