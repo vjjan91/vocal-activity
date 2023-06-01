@@ -21,12 +21,13 @@ This project builds on data that was collected for a previously published manusc
 ** Work in progress **
 We will carry out the following here:
 
--dawn and dusk detections (cumulative)  
--dawn and dusk vocal activity (how is vocal activity measured and estimated?; also run separate analysis on proportions?)  
+-dawn and dusk detections (cumulative) (run analysis similar to what you would do for vocal activity)    
+-dawn and dusk vocal activity (how is vocal activity measured and estimated?; also run separate analysis on proportions?)   
+   run anovas to get at diff between dawn v. dusk across habitat types and species affiliations    
 -dawn and dusk species richness (jacknife?)(not necessarily needed)  
 -PGLS analysis/no PGLS analysis?   
     dawn  
     dusk  
-  (including habitat structure ~ PC measurements, habitat affiliation (RF/OC), foraging guild, trophic niche/diet, and )  
-
+  (including habitat structure ~ PC measurements, habitat affiliation (RF/OC), foraging guild, trophic niche/diet, and phylogeny)  
+-envision the main figures 
 
